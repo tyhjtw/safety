@@ -6,3 +6,5 @@ dev_branch
 master_add  and feature1
 
 dev_edit
+
+fix bug
